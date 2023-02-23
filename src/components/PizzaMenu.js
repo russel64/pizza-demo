@@ -1,4 +1,6 @@
-import pizza from "./pizza";
+import pizza from "../data/pizza";
+
+console.log(pizza);
 
 function PizzaMenu(){
     return(
