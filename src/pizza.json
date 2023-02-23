@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "type":"pepperoni pizza",
+        "price":3,
+        "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60"
+    },
+    {
+        "id":2,
+        "type":"cheese pizza",
+        "price":1,
+        "image":"https://kitchenatics.com/wp-content/uploads/2020/09/Cheese-pizza-1.jpg"
+    },
+    {
+        "id":3,
+        "type":"sausage pizza",
+        "price":3,
+        "image":"https://images.ctfassets.net/hhv516v5f7sj/3no5JpLmZQcqkThI0tv1pG/92506184674a35b7c2c2eaf512ad4f23/IFSausagePizza_3000x3000.jpg"
+    },
+    {
+        "id":4,
+        "type":"mushroom pizza",
+        "price":2,
+        "image":"https://www.seriouseats.com/thmb/raKxsIKeWQXvmVtgcAoBtRYZ9Gw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__07__20150702-mushroom-truffle-pizza-1-0a0355c9cb2142d9a43cd20ee6b8b2b3.jpg"
+    }
+]
